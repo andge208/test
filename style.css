@@ -1,0 +1,900 @@
+.header{
+    width: 1245px;
+    height: 5800px;
+    margin: 0 auto;
+}
+.box1{
+    width: 1245px;
+    height: 600px;
+    background-color: #DE742BE5;
+    position: static;
+}
+.knopka1{
+    margin: 0 auto;
+    width: 400px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:340px ;
+    margin-left: 100px;
+}
+.knopka1 a{
+    text-decoration: none;
+    padding: 10px 35px;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+.knopka a:hover{
+    background-color: snow;
+    box-shadow: 3px 3px 3px 3px rgb(119, 116, 116);
+}
+.znachky{
+    width:800px;
+    height:30px;
+    margin: 0 auto;
+    margin-left: 50px;
+    margin-top: -40px;
+}
+.znachky2{
+    width: 150px;
+    height: 30px;
+    margin: 0 auto;
+    margin-right: 100px;
+    display: flex;
+    justify-content: row;
+    justify-content: space-evenly;
+}
+.boxik1{
+    width: 30px;
+    height: 30px;
+}
+.boxik2{
+    width: 30px;
+    height: 30px;
+}
+.boxik3{
+    width: 30px;
+    height: 30px;
+}
+.mobil{
+    width: 30px;
+    height: 30px;
+}
+.location{
+    width: 30px;
+    height: 30px;
+}
+.pocta{
+    width: 30px;
+    height: 30px;
+}
+.box1inbox1{
+    width: 1245px;
+    height: 80px;
+    border-bottom: solid 1px white;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.menu1{
+    width:1245px;
+    height:30px;
+    margin: 0 auto;
+    justify-content: end;
+}
+.menu1 ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.box1inbox2{
+    width: 460px;
+    height: 256x;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+.boxforlogo{
+    width: 800px;
+    height: 105px;
+    margin-top: -60px;
+    text-align: center;
+    font-size: 90px;
+    text-align: start;
+    text-align: justify;
+    text-align: start;
+}
+.logo{
+    width: 350px;
+    height: 50px;
+    text-align: center;
+    font-size: 50px;
+}
+.boxfortext{
+    margin-top: 100px;
+    font-size: 30px;
+}
+.triuholnuk{
+    margin: 0 auto;
+    margin-top: -150px;
+    margin-right: 250px;
+    width: 50px;
+    height: 50px;
+}
+.tri{
+    margin-top: -370px;
+    margin-left: -300px;
+    width: 0;
+    height: 0;
+    border-top: 295px solid transparent;
+    border-right: 600px solid #ffffff;
+    border-bottom: 295px solid transparent;
+}
+.foto1{
+    margin-top: 30px;
+    margin-left: 850px;
+    width: 290px;
+    height: 400px;
+    position: absolute;
+}
+.box2{
+    width: 1245px;
+    height: 800px;
+}
+.boxfortext12{
+    width: 1245px;
+    height: 50px;
+    margin-top: 60px;
+}
+.littletext{
+    width: 100px;
+    height: 20px;
+    color: #DF803E;
+    margin-left: 70px;
+}
+.bigtext{
+    text-align: center;
+    width: 800px;
+    height: 50px;
+    font-size: 50px;
+    margin: 0 auto;
+    margin-top: -80px;
+}
+.options{
+    margin-bottom: 100px;
+    width: 950px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.optionbox1{
+    width: 950px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.fotobox1{
+    width: 250px;
+    height: 250px;
+}
+.fotobox2{
+    width: 250px;
+    height: 250px;
+}
+.fotobox3{
+    width: 250px;
+    height: 250px;
+}
+
+.optionbox2{
+    width: 950px;
+    height: 300px;
+    display: flex;
+    justify-content:space-around;
+}
+.fotobox4{
+    width: 250px;
+    height: 250px;
+}
+.fotobox5{
+    width: 250px;
+    height: 250px;
+}
+.fotobox6{
+    width: 250px;
+    height: 250px;
+}
+.box3{
+    width: 1245px;
+    height: 950px;
+    background-color: #DE742BE5;
+}
+.tetet1{
+    width: 200px;
+    height: 20px;
+    color: #ffffff;
+    margin-left: 70px;
+    margin-top: 130px;
+}
+.tetet2{
+    width: 600px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: -60px;
+    text-align: center;
+    font-size: 35px;
+}
+.boxfortexts{
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.boxes1{
+    width: 500px;
+    height: 50px;
+    margin-top: 10px;
+}
+.a1{
+    width: 50px;
+    height: 50px;
+}
+.pad1{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -40px;
+    font-size: 25px;
+}
+
+.boxes2{
+    width: 500px;
+    height: 50px;
+    margin-top: 10px;
+}
+.a2{
+    width: 50px;
+    height: 50px;
+}
+.pad2{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -40px;
+    font-size: 25px;
+}
+.boxes3{
+    width: 500px;
+    height: 50px;
+    margin-top: 10px;
+}
+.a3{
+    width: 50px;
+    height: 50px;
+}
+.pad3{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -40px;
+    font-size: 25px;
+    margin-left: 40px;
+}
+.boxes4{
+    width: 500px;
+    height: 50px;
+    margin-top: 10px;
+}
+.a4{
+    width: 50px;
+    height: 50px;
+}
+.pad4{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -40px;
+    font-size: 25px;
+}
+.boxes5{
+    width: 500px;
+    height: 50px;
+    margin-top: 10px;
+}
+.a5{
+    width: 50px;
+    height: 50px;
+}
+.pad5{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 20px;
+    margin-left: 60px;
+}
+.boxes6{
+    width: 500px;
+    height: 50px;
+    margin-top: 10px;
+}
+.a6{
+    width: 50px;
+    height: 50px;
+}
+.pad6{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 23px;
+    margin-left: 60px;
+}
+.boxes7{
+    width: 500px;
+    height: 50px;
+    margin-top: 10px;
+}
+.a7{
+    width: 50px;
+    height: 50px;
+}
+.pad7{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -40px;
+    font-size: 25px;
+}
+.boxes8{
+    width: 500px;
+    height: 50px;
+    margin-top: 10px;
+}
+.a8{
+    width: 50px;
+    height: 50px;
+}
+.pad8{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -40px;
+    font-size: 25px;
+}
+.knopka{
+    margin: 0 auto;
+    width: 300px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.knopka a{
+    text-decoration: none;
+    padding: 10px 35px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.box4{
+    width: 1245px;
+    height: 750px;
+}
+.boxikse1{
+    width: 200px;
+    height: 20px;
+    color: #000000;
+    margin-left: 70px;
+    margin-top: 130px;
+    text-align: center;
+    font-size: 20px;
+}
+.boxikse12{
+    width: 600px;
+    height: 20px;
+    color: #000000;
+    margin-left: 70px;
+    margin-top: 20px;
+    font-size: 40px;
+}
+.boxikse2{
+    width: 500px;
+    height: 280px;
+    margin-top: -350px;
+    margin-left: 680px;
+    position: static;
+}
+.rozmer{
+    width: 500px;
+    height: 280px;
+}
+.krugibox{
+    width: 400px;
+    height: 200px;
+
+    margin-top: 80px;
+    margin-left: 60px;
+}
+.krugibox1{
+    width: 400px;
+    height: 50px;
+
+}
+.krugibox1img{
+    width: 50px;
+    height: 50px;
+}
+.b1{
+    margin: 0 auto;
+    margin-top: -40px;
+    font-size: 25px;
+    margin-left: 70px;
+}
+
+.krugibox2{
+    width: 400px;
+    height: 50px;
+
+}
+.krugibox2img{
+    width: 50px;
+    height: 50px;
+}
+.b2{
+    margin: 0 auto;
+    margin-top: -40px;
+    font-size: 25px;
+    margin-left: 70px;
+}
+
+.krugibox3{
+    width: 400px;
+    height: 50px;
+}
+.krugibox3img{
+    width: 50px;
+    height: 50px;
+}
+.b3{
+    margin: 0 auto;
+    margin-top: -40px;
+    font-size: 25px;
+    margin-left: 70px;
+}
+.formacursu{
+    margin: 0 auto;
+    width: 500px;
+    height: 40px;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 35px;
+}
+
+.boxikse3{
+    width: 1100px;
+    height: 200px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.boxssss1{
+    width: 300px;
+    height: 167px;
+}
+.c1{
+    width: 50px;
+    height: 50px;
+}
+.textssus1{
+    text-align: center;
+    margin-top: -40px;
+    font-size: 25px;
+}
+.textssssqs1{
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.boxssss2{
+    width: 260px;
+    height: 200px;
+
+}
+.c2{
+    width: 50px;
+    height: 50px;
+}
+.textssus2{
+    text-align: center;
+    margin-top: -40px;
+    font-size: 25px;
+}
+.textssssqs2{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.boxssss3{
+    width: 291px;
+    height: 167px;
+
+}
+.c3{
+    width: 50px;
+    height: 50px;
+}
+.textssus3{
+    text-align: center;
+    margin-top: -40px;
+    font-size: 25px;
+}
+.textssssqs3{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.box5{
+    width: 1245px;
+    height: 1050px;
+
+}
+
+.teree{
+    width: 215px;
+    height: 31px;
+
+    margin-top: 60px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+.teree1{
+    width: 400px;
+    height: 50px;
+    margin: 0 auto;
+
+    text-align: center;
+    font-size: 30px;
+}
+.gde{
+    width: 1080px;
+    height: 220px;
+
+    margin: 0 auto;
+}
+.kto{
+    width: 1080px;
+    height: 40px;
+
+    text-align: start;
+    font-size: 20px;
+}
+.gde2{
+    width: 800px;
+    height: 178px;
+
+    text-align: start;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.fotochki{
+    width:1080px;
+    height:620px;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: space-around;
+}
+.fotochki1{
+    width: 400px;
+    height: 620px;
+
+}
+.flage1{
+    width: 250px;
+    height: 310px;
+    border-radius: 10px;
+}
+.flage2{
+    width: 250px;
+    height: 310px;
+    border-radius: 10px;
+}
+.fotochki23{
+    width: 1000px;
+    height: 250px;
+
+    margin-right: -780px;
+    display: flex;
+    justify-content: space-around;
+}
+.flage3{
+    width: 500px;
+    height: 250px;
+    margin-left: -50px;
+    border-radius: 10px;
+}
+.flage4{
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+}
+.fotochki34{
+    margin-top: 249px;
+    width: 1000px;
+    height: 370px;
+
+    margin-bottom: 10px;
+}
+.flage5{
+    width: 300px;
+    height: 370px;
+    margin-bottom: -10px;
+    border-radius: 10px;
+}
+.flage6{
+    width: 400px;
+    height: 200px;
+    margin-bottom: 150px;
+    border-radius: 10px;
+}
+.flage7{
+    width: 200px;
+    height: 130px;
+    margin-left: 330px;
+    margin-top: -200px;
+    border-radius: 10px;
+}
+.flage8{
+    width: 200px;
+    height: 130px;
+    margin-top: -220px;
+    border-radius: 10px;
+}
+.box6{
+    width: 1245px;
+    height: 1050px;
+
+    background-color: #DF803E;
+}
+.comands{
+    width: 215px;
+    height: 31px;
+
+    margin-top: 60px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 20px;
+    color: #FCFCFC;
+}
+.rezultasts{
+    width: 600px;
+    height: 50px;
+    margin: 0 auto;
+
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.box{
+    margin-bottom: 100px;
+    width: 900px;
+    height: 700px;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content:space-around
+}
+.peoples1{
+    width: 270px;
+    height: 500px;
+    margin-top: 100px;
+}
+.peoples2{
+    width: 270px;
+    height: 500px;
+    margin-top: 50px;
+
+}
+.peoples3{
+    width: 270px;
+    height: 500px;
+    margin-top: 100px;
+}
+.valeria{
+    width: 270px;
+    height: 500px;
+}
+.olha{
+    width: 270px;
+    height: 500px;
+}
+.natalia{
+    width: 270px;
+    height: 500px;
+}
+.oval1{
+    width: 60px;
+    height: 60px;
+    margin-top: -400px;
+    margin-left: 100px;
+}
+.oval11{
+    width: 60px;
+    height: 60px;
+}
+.oval2{
+    width: 60px;
+    height: 60px;
+    margin-left: 1100px;
+    margin-top: -55px;
+}
+.oval22{
+    width: 60px;
+    height: 60px;
+}
+.box7{
+    width: 1245px;
+    height: 450px;
+}
+.took{
+    width: 115px;
+    height: 31px;
+    margin-top: 60px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+.blalba{
+    width: 300px;
+    height: 50px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.comentar{
+    width: 880px;
+    height: 220px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #DF803E;
+}
+.comentar1{
+    width: 880px;
+    height: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+.olhaaaa{
+    font-size: 30px;
+}
+.aw1{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.aw2{
+    margin-left: 30px;
+}
+.boxsesawe{
+    width: 650px;
+    height: 100px;
+    margin: 0 auto;
+    font-size: 18px;
+}
+.ovali1{
+    width: 60px;
+    height: 60px;
+    margin-top: -140px;
+    margin-left: 100px;
+}
+.ovali12{
+    width: 60px;
+    height: 60px;
+}
+.ovali23{
+    width: 60px;
+    height: 60px;
+}
+.ovali2{
+    width: 60px;
+    height: 60px;
+    margin-left: 1080px;
+    margin-top: -60px;
+}
+.box8{
+    width: 1245px;
+    height: 200px;
+    background-color: #DF803E;
+}
+
+.Giraffe{
+    width: 215px;
+    height: 31px;
+    margin-top: 60px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+.nambers{
+    width: 200px;
+    height: 60px;
+    margin: 0 auto;
+    margin-left: 350px;
+    margin-top: -30px;
+}
+.number1{
+    width: 200px;
+    height: 20px;
+
+}
+.number2{
+    width: 200px;
+    height: 20px;
+
+}
+.emails{
+    width: 200px;
+    height: 60px;
+
+    margin: 0 auto;
+    margin-left: 600px;
+    margin-top: -63px;
+}
+.email1{
+    width: 200px;
+    height: 20px;
+
+}
+.email2{
+    width: 200px;
+    height: 20px;
+;
+}
+.adresas{
+    width: 200px;
+    height: 60px;
+
+    margin: 0 auto;
+    margin-left: 850px;
+    margin-top: -63px;
+}
+.адреса1{
+    width: 200px;
+    height: 20px;
+
+}
+.адреса2{
+    width: 200px;
+    height: 20px;
+
+}
+.socialic{
+    width: 200px;
+    height: 60px;
+
+    margin: 0 auto;
+    margin-left: 1060px;
+    margin-top: -63px;
+}
+.socialic1{
+    width: 200px;
+    height: 30px;
+
+    text-align: center;
+}
+.socialic2{
+    width: 200px;
+    height: 30px;
+
+}
+.inst{
+    width: 30px;
+    height: 30px;
+
+    margin: 0 auto;
+    margin-left: 60px;
+}
+.face{
+    width: 30px;
+    height: 30px;
+
+    margin: 0 auto;
+}
+
+
